@@ -1,1 +1,1 @@
-This is simple  game of rock paper scissors.Enjoy it!!!
+This is simple  game of rock paper scissors.
